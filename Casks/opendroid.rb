@@ -7,7 +7,7 @@ cask "opendroid" do
   desc "Android file transfer and management tool"
   homepage "https://github.com/ardevcraft/opendroid"
 
-  app "OpenDroid.app"
+  app "OpenDroid Transfer.app"
 
   zap trash: [
     "~/Library/Application Support/OpenDroid",
